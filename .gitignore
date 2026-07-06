@@ -13,3 +13,6 @@ server_diag.sh
 *.md
 *.dump
 camouflage
+3x-api
+scripts
+credentials
